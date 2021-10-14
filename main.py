@@ -37,4 +37,4 @@ combo_images = \
          for i in range(labels.shape[0])])
 
 # plotting combo kernel images into a PDF
-save_plotted_images_in_pdf(triangle_images, labels, "Combo filter")
+save_plotted_images_in_pdf(combo_images, labels, "Combo filter")
